@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "title": "Bubble Drinks",
+      "description": "Chewy pearls, refreshing flavors.",
+      "items": [
+        {
+          "name": "Classic Milk Tea",
+          "price": 89.0,
+          "note": "Black tea, creamy, pearls"
+        },
+        {
+          "name": "Wintermelon Milk Tea",
+          "price": 99.0,
+          "note": "Caramel notes, pearls"
+        },
+        {
+          "name": "Brown Sugar Boba Latte",
+          "price": 120.0,
+          "note": "Fresh milk, brown sugar syrup"
+        },
+        {
+          "name": "Taro Smoothie",
+          "price": 110.0,
+          "note": "Purple taro, creamy"
+        }
+      ]
+    },
+    {
+      "title": "Coffee",
+      "description": "Hot or iced espresso-based drinks.",
+      "items": [
+        {
+          "name": "Americano",
+          "price": 75.0,
+          "note": "Hot or iced"
+        },
+        {
+          "name": "Latte",
+          "price": 105.0,
+          "note": "Hot or iced"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "price": 125.0,
+          "note": "Sweet & bold"
+        },
+        {
+          "name": "Mocha",
+          "price": 120.0,
+          "note": "Chocolate + espresso"
+        }
+      ]
+    },
+    {
+      "title": "Snacks",
+      "description": "Light bites to pair with your drink.",
+      "items": [
+        {
+          "name": "Ham & Cheese Sandwich",
+          "price": 70.0
+        },
+        {
+          "name": "Tuna Melt Sandwich",
+          "price": 75.0
+        },
+        {
+          "name": "Cookies",
+          "price": 45.0
+        }
+      ]
+    }
+  ]
+}

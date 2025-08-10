@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "title": "Movie Night",
+      "date": "2025-08-15T19:00:00",
+      "description": "Free entry with any drink. Vote on the film!"
+    },
+    {
+      "title": "Acoustic Sessions",
+      "date": "2025-08-22T19:00:00",
+      "description": "Local artists. Chill vibes."
+    },
+    {
+      "title": "Artistic Poetry Night",
+      "date": "2025-08-29T18:30:00",
+      "description": "Open mic poetry. Sign up in-store."
+    },
+    {
+      "title": "Trivia Night",
+      "date": "2025-09-05T19:00:00",
+      "description": "Teams of 4. Prizes for winners!"
+    },
+    {
+      "title": "Kids' Craft Afternoon",
+      "date": "2025-09-12T15:00:00",
+      "description": "Family-friendly crafts and snacks."
+    }
+  ]
+}
