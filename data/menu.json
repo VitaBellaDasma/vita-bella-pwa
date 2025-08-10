@@ -1,28 +1,37 @@
 {
   "sections": [
     {
-      "title": "Bubble Drinks",
+      "title": "Classic Iced Drinks",
       "description": "Chewy pearls, refreshing flavors.",
       "items": [
         {
-          "name": "Classic Milk Tea",
-          "price": 89.0,
-          "note": "Black tea, creamy, pearls"
+          "name": "Iced Coffee",
+          "price": 65.00,
+          "note": "Regular 65.00, Tall 75.00, Regular with Pearl 75.00, Tall with Pearl 85.00, Venti 85.00, Venti with Pearl 95.00"
         },
         {
-          "name": "Wintermelon Milk Tea",
-          "price": 99.0,
-          "note": "Caramel notes, pearls"
+          "name": "Iced Café Mocha",
+          "price": 65.00,
+          "note": "Regular 65.00, Tall 75.00, Regualar with Pearl 75.00, Tall with Pearl 85.00, Venti 85.00, Venti with Pearl 95.00"
         },
         {
-          "name": "Brown Sugar Boba Latte",
-          "price": 120.0,
-          "note": "Fresh milk, brown sugar syrup"
+          "name": "Choco Berry Ice",
+          "price": 70.00,
+          "note": "Regular 70.00, Tall 80.00, Regular with Pearl 80.00, Tall with Pearl 90.00, Venti 90.00, Venti with Pearl 100.00"
         },
         {
-          "name": "Taro Smoothie",
-          "price": 110.0,
-          "note": "Purple taro, creamy"
+          "name": "Choco Macha Berry",
+          "price": 75.00,
+          "note": "Regular 75.00, Tall 85.00, Regular with Pearl 85.00, Tall with Pearl 95.00, Venti 95.00, Venti with Pearl 105.00"
+        },
+        {
+          "name": "Okinawa",
+          "price": 75.00,
+          "note": "Regular 75.00, Tall 85.00, Regular with Pearl 85.00, Tall with Pearl 95.00, Venti 95.00, Venti with Pearl 105.00"
+        },
+        {
+          "name": "Hokkaido",
+          "price": Regular 75.00, Tall 85.00, Regular with Pearl 85.00, Tall with Pearl 95.00, Venti 95.00, Venti with Pearl 105.00"
         }
       ]
     },
