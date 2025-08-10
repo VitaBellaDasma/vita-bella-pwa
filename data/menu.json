@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "title": "Classic Iced Drinks",
+      "title": "CLASSIC ICED DRINKS",
       "description": "Chewy pearls, refreshing flavors.",
       "items": [
         {
@@ -36,48 +36,26 @@
       ]
     },
     {
-      "title": "Coffee",
-      "description": "Hot or iced espresso-based drinks.",
+      "title": "PREMIUM MILK TEA-FLAVORED ICED DRINKS",
+      "description": "Iced Milk Tea-Flavored Drinks.",
       "items": [
         {
-          "name": "Americano",
-          "price": 75.0,
-          "note": "Hot or iced"
+          "name": "Honeydew with Lychee Nata",
+          "price": 89.00,
+          "note": "Regular 89.00, Tall 99.00, Venti 109.00"
         },
         {
-          "name": "Latte",
-          "price": 105.0,
-          "note": "Hot or iced"
+          "name": "Watermelon with Lychee Nata",
+          "price": 89.00,
+          "note": "Regular 89.00, Tall 99.00, Venti 109.00"
         },
         {
-          "name": "Caramel Macchiato",
-          "price": 125.0,
-          "note": "Sweet & bold"
+          "name": "Green Apple with Lychee Nata",
+          "price": 89.00,
+          "note": "Regular 89.00, Tall 99.00, Venti 109.00"
         },
         {
-          "name": "Mocha",
-          "price": 120.0,
-          "note": "Chocolate + espresso"
-        }
-      ]
-    },
-    {
-      "title": "Snacks",
-      "description": "Light bites to pair with your drink.",
-      "items": [
-        {
-          "name": "Ham & Cheese Sandwich",
-          "price": 70.0
-        },
-        {
-          "name": "Tuna Melt Sandwich",
-          "price": 75.0
-        },
-        {
-          "name": "Cookies",
-          "price": 45.0
-        }
-      ]
-    }
-  ]
-}
+          "name": "Taro with Pearl",
+          "price": 95.00,
+          "note": "Regular 95.00, Tall 105.00"
+      
